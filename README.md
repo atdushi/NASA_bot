@@ -32,7 +32,7 @@
 
 Пример ответа сервиса NASA
 
-```cs
+```json
 {
   "copyright": "Bill Peters",
   "date": "2020-07-17",
