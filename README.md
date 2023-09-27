@@ -1,5 +1,7 @@
 ## Пишем Telegram бота на Java для получения картинки от NASA
 
+![telegram bot](images/diagram.drawio.png)
+
 ### Что нужно сделать
 
 1. Получить ключ для API NASA по адресу: https://api.nasa.gov/ <br>
